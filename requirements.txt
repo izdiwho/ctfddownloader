@@ -1,0 +1,4 @@
+urllib3
+requests
+BeautifulSoup4
+selenium
